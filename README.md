@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning React & I have learned Html, Css, Bootstrap, Jquery, Javascript.
 - 💞️ I’m looking to job in web devlopment field
 - 📫 How to reach me www.linkedin.com/in/siddharth-in
-- 😄 Pronouns: him
 - ⚡ Fun fact: After 5 month of web devlopment training, I started getting more intersted in it. I will try to keep creating something new everyday and keep learning something new from those things.
 
 <!---

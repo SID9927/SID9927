@@ -97,5 +97,5 @@ I'm a full-stack developer with experience in building robust applications, both
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+

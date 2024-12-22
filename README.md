@@ -33,7 +33,6 @@ I'm a full-stack developer with experience in building robust applications, both
 - ⚡ Fun fact: I enjoy problem-solving and constantly push myself to learn new technologies.  
 
 
-</td><td valign="top" width="50%">
 
 
 

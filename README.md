@@ -21,7 +21,7 @@ I'm a full-stack developer with experience in building robust applications, both
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I'm currently working on my [Brainwave_Matrix_Intern](https://github.com/SID9927/Brainwave_Matrix_Intern.git)  
+- 🔭 I'm currently looking for entry level job in software development field.
   
 
 - I’m learning Docker and Three.js to enhance my knowledge in containerization and 3D graphics for the web.  

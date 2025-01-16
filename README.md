@@ -24,7 +24,7 @@ I'm a full-stack developer with experience in building robust applications, both
 - 🔭 I'm currently looking for entry level job in software development field.
   
 
-- I’m learning Docker and Three.js to enhance my knowledge in containerization and 3D graphics for the web.  
+- 👩🏻‍💻 Currently, learning Node.js.  
   
 
 - ❓ Feel free to ask me anything related to React or backend technologies.  

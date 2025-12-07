@@ -35,12 +35,9 @@
 <br/>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SID9927&theme=tokyonight&hide_border=true&background=0d1117" height="160" alt="streak" />
-</div>
-
-<div align="center">
-    <img src="https://api.github.com/users/SID9927" height="1" width="1" alt="ignore this" /> 
+    <!-- <img src="https://api.github.com/users/SID9927" height="1" width="1" alt="ignore this" />  -->
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SID9927&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SID9927&theme=tokyonight&hide_border=true&background=0d1117" height="160" alt="streak" />
 </div>
 
 <br/>

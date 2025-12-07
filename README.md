@@ -1,110 +1,46 @@
 <div align="center">
 
-# Hi there, I'm Siddharth! 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Siddharth!;Full+Stack+Developer;MERN+%7C+.NET+%7C+Java;Open+to+Work!" alt="Typing SVG" />
 
-### Full-Stack Developer | Problem Solver | Tech Enthusiast
-
-<a href="https://github.com/SID9927">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/siddharth-in">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://siddharth-portfolio-web.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=SID9927&&style=flat-square&color=blue)
+<p align="center">
+    <a href="https://github.com/SID9927" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" /></a> 
+    <a href="https://linkedin.com/in/siddharth-in" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> 
+    <a href="https://siddharth-portfolio-web.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 </div>
 
----
+## 👨‍💻 About Me
 
-### 🚀 About Me
+> I'm a developer who enjoys problem-solving and constantly pushes to learn new technologies. I love working on distributed systems and scalable architecture.
 
-I am a full-stack developer passionate about building robust applications and scalable architectures. I bridge the gap between complex backend systems and intuitive frontend interfaces.
-
-- 🔭 **I’m currently looking for:** Entry-level opportunities in Software Development.
-- 🌱 **I’m currently learning:** Advanced Node.js patterns and System Design.
-- 💬 **Ask me about:** React, .NET, MERN Stack, or SQL.
-- ⚡ **Fun fact:** I love Indian cuisine and experimenting with image generation AI!
+* 🔭 **Looking for:** Entry-level Software Development roles.
+* 🌱 **Learning:** Deepening my knowledge in **Node.js**.
+* 🎨 **Creative Side:** I enjoy working with Photoshop, Lightroom, and Generative AI.
+* 📫 **Reach out:** Feel free to ask me about React or Backend technologies!
 
 ---
 
-### 🛠️ Technical Arsenal
+## 💻 Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Node.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-      <br>Spring
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-      <br>C#
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-      <br>.NET
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-  </tr>
-</table>
+| **Frontend** | **Backend** | **Database** | **Tools & Creative** |
+|:---:|:---:|:---:|:---:|
+| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) | ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) | | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) | | |
 
 ---
 
-### 📊 GitHub Stats
+## 📈 Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SID9927&show_icons=true&theme=radical&count_private=true&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SID9927&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SID9927&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
 </div>
 
-<br/>
+<br>
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=SID9927&&style=flat-square&color=blueviolet" alt="Profile views" />
+</div>

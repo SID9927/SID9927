@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hi,+I'm+Siddharth!;Full+Stack+Developer;MERN+%7C+.NET+%7C+Java;Code.+Create.+Innovate." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=4169E1&center=true&vCenter=true&width=500&lines=Hi,+I'm+Siddharth!;Full+Stack+Developer;MERN+%7C+.NET+%7C+Java;Code.+Create.+Innovate." alt="Typing SVG" />
 
 <p align="center">
     <a href="https://github.com/SID9927" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a> 
@@ -35,9 +35,12 @@
 <br/>
 
 <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SID9927&theme=tokyonight&hide_border=true&background=0d1117" height="160" alt="streak" />
+</div>
+
+<div align="center">
     <img src="https://api.github.com/users/SID9927" height="1" width="1" alt="ignore this" /> 
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SID9927&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SID9927&theme=tokyonight&hide_border=true&background=0d1117" height="160" alt="streak" />
 </div>
 
 <br/>

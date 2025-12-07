@@ -35,8 +35,12 @@
 <br/>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SID9927&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" height="160" alt="stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SID9927&theme=tokyonight&hide_border=true&background=0d1117" height="160" alt="streak" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=SID9927&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="stats" />
+    </a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SID9927&theme=tokyonight&hide_border=true&background=0d1117" height="160" alt="streak" />
+    </a>
 </div>
 
 <br/>

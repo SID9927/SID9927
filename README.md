@@ -42,5 +42,11 @@
 <br/>
 
 <div align="center">
+  <img src="https://github.com/SID9927/SID9927/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=SID9927&&style=flat-square&color=20C20E" alt="Profile views" />
 </div>
